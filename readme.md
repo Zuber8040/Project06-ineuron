@@ -1,3 +1,3 @@
 ![thumbnail](./thumbnail.png)
 
-[Deployed link]()
+Deployed  &rarr; [Live]()
